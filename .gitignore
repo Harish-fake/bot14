@@ -1,0 +1,56 @@
+# GitSync Bot Auto-generated .gitignore
+# C++
+*.o
+*.obj
+*.exe
+*.out
+*.app
+build/
+cmake-build-*
+.idea/
+
+# Django
+*.pyc
+__pycache__/
+*.pyo
+*.sqlite3
+staticfiles/
+media/
+.venv/
+
+# Flask
+*.pyc
+__pycache__/
+*.pyo
+instance/
+.venv/
+env/
+*.db
+
+# Java
+*.class
+*.jar
+*.war
+*.nar
+target/
+dependency-reduced-pom.xml
+build/
+.settings/
+.project
+.classpath
+.idea/
+*.iml
+
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+.venv/
+venv/
+env/
+
